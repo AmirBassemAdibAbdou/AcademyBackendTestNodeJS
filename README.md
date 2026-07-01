@@ -52,3 +52,10 @@ npm run test
 * `POST /api/playlists/:id/songs` - Add a song to a playlist
 * `GET /api/playlists/:id/songs` - View all songs in a playlist
 * `DELETE /api/playlists/:id/songs/:songId` - Remove a song from a playlist (Bonus)
+
+### Visual Verification
+Here is a successful response from Postman:
+![Postman Test Success for creating a song](/AcademyBackendTestNodeJS/assets/Postman201N1.png)
+![Postman Test Success for creating a playlist](/AcademyBackendTestNodeJS/assets/Postman201N2.png)
+![Postman Test Success for add songs to his playlist](/AcademyBackendTestNodeJS/assets/Postman201N3.png)
+![Bonus Postman Test Success for fetch songs in a user playlist](/AcademyBackendTestNodeJS/assets/Postman201N4.png)
