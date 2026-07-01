@@ -64,7 +64,7 @@ npm run test
 
 ### Visual Verification
 Here is a successful response from Postman:
-![Postman Test Success for creating a song](/AcademyBackendTestNodeJS/assets/Postman201N1.png)
-![Postman Test Success for creating a playlist](/AcademyBackendTestNodeJS/assets/Postman201N2.png)
-![Postman Test Success for add songs to his playlist](/AcademyBackendTestNodeJS/assets/Postman201N3.png)
-![Bonus Postman Test Success for fetch songs in a user playlist](/AcademyBackendTestNodeJS/assets/Postman201N4.png)
+![Postman Test Success for creating a song](assets/Postman201N1.png)
+![Postman Test Success for creating a playlist](assets/Postman201N2.png)
+![Postman Test Success for add songs to his playlist](assets/Postman201N3.png)
+![Bonus Postman Test Success for fetch songs in a user playlist](assets/Postman201N4.png)
